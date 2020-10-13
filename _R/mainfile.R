@@ -106,7 +106,6 @@ if (i <= lastimage/2){
   }
   
 if (i > lastimage/2){
-  
     # update only gradual color changes
     #display[recidx] <- display[recidx] + 0.2
 
